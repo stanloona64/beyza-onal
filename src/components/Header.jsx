@@ -63,7 +63,7 @@ export default function Header() {
           </div>
           <div className="flex-shrink-0 z-20">
             <img 
-              src="https://i.ibb.co/VcJycPhY/beyzaonal.png" 
+              src="https://i.ibb.co/KjbMvcHT/beyzaonal.png" 
               alt="Beyza Önal" 
               className="w-64 h-64 md:w-80 md:h-80 object-cover rounded-2xl shadow-2xl border-4 border-[#CBF281]"
             />
