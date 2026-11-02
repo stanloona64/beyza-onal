@@ -31,7 +31,7 @@ export default function Profile() {
 
           <div className="flex justify-center items-center text-left">
             <img 
-              src="https://i.ibb.co/VcJycPhY/beyzaonal.png" 
+              src="https://i.ibb.co/KjbMvcHT/beyzaonal.png" 
               alt="Profile" 
               className="w-64 h-80 object-cover rounded-2xl shadow-xl border-4 border-[#CBF281]"
             />
